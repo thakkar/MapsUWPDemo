@@ -129,7 +129,7 @@ publish/
 #*.pubxml
 
 # NuGet Packages Directory
-packages/*
+# including packages so you can download and compile the zip folder as in.
 ## TODO: If the tool you use requires repositories.config
 ## uncomment the next line
 #!packages/repositories.config
